@@ -11,7 +11,7 @@
 
 <a href="https://github.com/Hazz-i/TicketTrainManagemne#Requirement"><h1>Requirement</h1></a>
 <ul>
-   <li>Database: <a href="https://sqlitebrowser.org/">SQLite</a></li>
+   <li><a href="https://sqlitebrowser.org/">SQLite</a></li>
   <li><a href="https://pesktop.com/en/windows/bunifu_ui_winforms_dataviz_advanced">Framework Guna UI</a></li>
 </ul>
 
