@@ -1,6 +1,13 @@
 <a href="https://github.com/Hazz-i/TicketTrainManagemnet"><h1>Train Ticket Management</h1></a>
 
-<a href=""><p>App you can use to help manajement train ticket</p></a>
+<a href=""><p>Aplikasi yang bisa membantu anda dalam memanajement tiket kereta api: </p></a>
+<a href=""><p>Aplikasi ini di susun dengan: </p></a>
+<ul>
+  <li>MVC Pattern</li>
+  <li>CRUD</li>
+  <li>Database: SQLite</li>
+</ul>
+
 <p>Deangan Mengunakan <a href="https://sqlitebrowser.org/">SQLite</a></p>
 
 <a href="https://github.com/Hazz-i/TicketTrainManagemne#Requirement"><h1>Requirement</h1></a>
