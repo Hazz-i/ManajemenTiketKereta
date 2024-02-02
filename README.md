@@ -1,4 +1,4 @@
-<a href="https://github.com/Hazz-i/TicketTrainManagemnet"><h1><Manajemen Tiket Kereta</h1></a>
+<a href="https://github.com/Hazz-i/TicketTrainManagemnet"><h1>Manajemen Tiket Kereta</h1></a>
 
 <p>Aplikasi yang bisa membantu anda dalam memanajement tiket kereta api mulai dari mengelelola rute, mengelelola penumpang dan melihat rata-rata dan lainnya. </p>
 <p>Aplikasi ini di susun dengan: </p>
